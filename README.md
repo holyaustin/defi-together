@@ -1,6 +1,6 @@
 # Defi-Investing-Club
 
-Social DeFi Investing Club App:
+Social DeFi Investing Club App: (DeFi Together)
 
 **_Defi Together, Moon Together_**
 
